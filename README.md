@@ -1,7 +1,8 @@
 # What is this ?
 The first lazarus projet of nt games, make in 2019.    
 The software is written in French.    
-It contains a calculator, a email sender, a image viewer and other tests.
+It contains a calculator, a email sender, a image viewer and other tests.    
+It was my first lazarus project so please be indulgent.
 
 # How do I compile ? 
 You can compile this with [Lazarus](https://www.lazarus-ide.org/).

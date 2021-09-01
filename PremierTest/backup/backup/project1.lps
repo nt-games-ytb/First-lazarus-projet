@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="28">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos Y="10"/>
+        <UsageCount Value="52"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="UNITS\unit1.pas"/>
+        <IsPartOfProject Value="True"/>
+        <ComponentName Value="Stage"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="Unit1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="165"/>
+        <CursorPos X="41" Y="175"/>
+        <UsageCount Value="52"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="..\..\..\..\TORON_~1\AppData\Local\Temp\project1.lpr"/>
+        <UnitName Value="Project1"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="5"/>
+        <CursorPos Y="16"/>
+        <UsageCount Value="11"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="UNITS\unit1.lfm"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="85"/>
+        <CursorPos X="15" Y="98"/>
+        <UsageCount Value="11"/>
+        <DefaultSyntaxHighlighter Value="LFM"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="C:\lazarus\lcl\stdctrls.pp"/>
+        <UnitName Value="StdCtrls"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1320"/>
+        <CursorPos X="9" Y="1247"/>
+        <UsageCount Value="11"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="C:\lazarus\lcl\include\control.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="2907"/>
+        <CursorPos Y="2915"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="C:\lazarus\lcl\include\buttoncontrol.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="76"/>
+        <CursorPos X="22" Y="53"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\rtl\win\sysutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="22"/>
+        <UsageCount Value="9"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="..\Library\synapse\laz_synapse.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="8"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="..\Library\synapse\synautil.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="169"/>
+        <UsageCount Value="8"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="..\Library\synapse\httpsend.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="61"/>
+        <UsageCount Value="19"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="C:\lazarus\lcl\include\customform.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="935"/>
+        <CursorPos Y="943"/>
+        <UsageCount Value="8"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="C:\lazarus\lcl\forms.pp"/>
+        <UnitName Value="Forms"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="1495"/>
+        <CursorPos X="14" Y="1500"/>
+        <UsageCount Value="8"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="C:\lazarus\lcl\include\winapih.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="191"/>
+        <CursorPos X="16" Y="198"/>
+        <UsageCount Value="8"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\pasjpeg\src\jpeglib.pas"/>
+        <UnitName Value="JPEGLib"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="25"/>
+        <UsageCount Value="8"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="C:\lazarus\lcl\graphics.pp"/>
+        <UnitName Value="Graphics"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="4"/>
+        <TopLine Value="94"/>
+        <CursorPos X="23" Y="2684"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="..\Library\synapse\ssl_openssl.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="155"/>
+        <CursorPos Y="164"/>
+        <UsageCount Value="29"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="..\Library\synapse\ssl_openssl_lib.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="13"/>
+        <UsageCount Value="8"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="..\Library\synapse\ssfpc.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="40"/>
+        <UsageCount Value="8"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="C:\lazarus\lcl\include\picture.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="586"/>
+        <CursorPos Y="595"/>
+        <UsageCount Value="8"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="C:\lazarus\lcl\include\fpimagebitmap.inc"/>
+        <EditorIndex Value="3"/>
+        <TopLine Value="133"/>
+        <CursorPos Y="141"/>
+        <UsageCount Value="21"/>
+        <Loaded Value="True"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="C:\lazarus\lcl\spin.pp"/>
+        <UnitName Value="Spin"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="34"/>
+        <UsageCount Value="9"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="C:\lazarus\fpc\3.0.4\source\packages\regexpr\src\regexpr.pas"/>
+        <UnitName Value="RegExpr"/>
+        <EditorIndex Value="2"/>
+        <TopLine Value="139"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="..\Library\synapse\ftpsend.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="..\Library\synapse\smtpsend.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="541"/>
+        <CursorPos X="28" Y="511"/>
+        <UsageCount Value="15"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="C:\lazarus\lcl\dialogs.pp"/>
+        <UnitName Value="Dialogs"/>
+        <TopLine Value="753"/>
+        <CursorPos X="35" Y="759"/>
+        <UsageCount Value="16"/>
+        <Loaded Value="True"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="..\Library\synapse\mimemess.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="285"/>
+        <CursorPos X="14" Y="262"/>
+        <UsageCount Value="14"/>
+      </Unit26>
+      <Unit27>
+        <Filename Value="..\UNITS\unit1.pas"/>
+        <HasResources Value="True"/>
+        <EditorIndex Value="1"/>
+        <CursorPos X="9"/>
+        <UsageCount Value="11"/>
+        <Loaded Value="True"/>
+      </Unit27>
+    </Units>
+    <JumpHistory HistoryIndex="-1"/>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+</CONFIG>
